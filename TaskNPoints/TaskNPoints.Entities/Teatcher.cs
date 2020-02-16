@@ -4,7 +4,8 @@ using System.Text;
 
 namespace TaskNPoints.Entities
 {
-    public class Teatcher
+    public class Teatcher : User
     {
+        public List<Task> TasksCreated { get; set; }
     }
 }
