@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using TaskNPoints.Repository.Contract;
 using TaskNPoints.WebApp.Models;
 
 namespace TaskNPoints.WebApp.Controllers
@@ -12,16 +13,24 @@ namespace TaskNPoints.WebApp.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly StudentRepository Repository;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger , StudentRepository studentRepository )
         {
             _logger = logger;
+            Repository = studentRepository;
         }
 
-        public IActionResult Index(object test)
+        public IActionResult Index(string login, string password)
         {
-            var hello = test;
-            return View();
+            if (Repository.LogInUser(login, password))
+            {
+                return View();
+            }
+            else
+            {
+              return Redirect("/Login");
+            }
         }
 
         public IActionResult Privacy()

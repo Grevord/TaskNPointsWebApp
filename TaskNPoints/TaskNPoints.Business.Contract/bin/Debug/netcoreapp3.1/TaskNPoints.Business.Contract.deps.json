@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TaskNPoints.Business.Contract/1.0.0": {
+        "runtime": {
+          "TaskNPoints.Business.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskNPoints.Business.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

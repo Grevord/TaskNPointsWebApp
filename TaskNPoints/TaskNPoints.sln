@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskNPoints.WebApp", "TaskNPoints.WebApp\TaskNPoints.WebApp.csproj", "{90918289-9C18-4888-89EA-27488A570A83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskNPoints.WebApp", "TaskNPoints.WebApp\TaskNPoints.WebApp.csproj", "{90918289-9C18-4888-89EA-27488A570A83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskNPoints.Entities", "TaskNPoints.Entities\TaskNPoints.Entities.csproj", "{7198313D-2C64-4819-A0E7-7E14914497C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskNPoints.Entities", "TaskNPoints.Entities\TaskNPoints.Entities.csproj", "{7198313D-2C64-4819-A0E7-7E14914497C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskNPoints.Repository", "TaskNPoints.Repository\TaskNPoints.Repository.csproj", "{05247927-3BB2-4922-B96A-698BCCD8FEC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskNPoints.Repository", "TaskNPoints.Repository\TaskNPoints.Repository.csproj", "{05247927-3BB2-4922-B96A-698BCCD8FEC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskNPoints.Repository.Contract", "TaskNPoints.Repository.Contract\TaskNPoints.Repository.Contract.csproj", "{413B8B62-C6DE-4102-9F1F-1519ED78C709}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskNPoints.Repository.Contract", "TaskNPoints.Repository.Contract\TaskNPoints.Repository.Contract.csproj", "{413B8B62-C6DE-4102-9F1F-1519ED78C709}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskNPoints.Business.Contract", "TaskNPoints.Business.Contract\TaskNPoints.Business.Contract.csproj", "{394C1209-443B-4863-970D-2EC5C2F5BC6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskNPoints.Business.Contract", "TaskNPoints.Business.Contract\TaskNPoints.Business.Contract.csproj", "{394C1209-443B-4863-970D-2EC5C2F5BC6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskNPoints.Business", "TaskNPoints.Business\TaskNPoints.Business.csproj", "{A032E0AA-E8A4-445F-9AC8-22915E4B5241}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskNPoints.Business", "TaskNPoints.Business\TaskNPoints.Business.csproj", "{A032E0AA-E8A4-445F-9AC8-22915E4B5241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskNPoints.Factory", "TaskNPoints.Factory\TaskNPoints.Factory.csproj", "{985B7363-AF4E-4309-9884-63B8ACB2B014}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{A032E0AA-E8A4-445F-9AC8-22915E4B5241}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A032E0AA-E8A4-445F-9AC8-22915E4B5241}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A032E0AA-E8A4-445F-9AC8-22915E4B5241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{985B7363-AF4E-4309-9884-63B8ACB2B014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985B7363-AF4E-4309-9884-63B8ACB2B014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985B7363-AF4E-4309-9884-63B8ACB2B014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985B7363-AF4E-4309-9884-63B8ACB2B014}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -25,6 +25,9 @@
       "TaskNPoints.WebApp/1.0.0": {
         "dependencies": {
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.1",
+          "TaskNPoints.Factory": "1.0.0",
+          "TaskNPoints.Repository": "1.0.0",
+          "TaskNPoints.Repository.Contract": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -1533,6 +1536,46 @@
           "System.Text.Encoding": "4.3.0",
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0"
+        }
+      },
+      "TaskNPoints.Entities/1.0.0": {
+        "runtime": {
+          "TaskNPoints.Entities.dll": {}
+        },
+        "compile": {
+          "TaskNPoints.Entities.dll": {}
+        }
+      },
+      "TaskNPoints.Factory/1.0.0": {
+        "dependencies": {
+          "TaskNPoints.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TaskNPoints.Factory.dll": {}
+        },
+        "compile": {
+          "TaskNPoints.Factory.dll": {}
+        }
+      },
+      "TaskNPoints.Repository/1.0.0": {
+        "dependencies": {
+          "TaskNPoints.Entities": "1.0.0",
+          "TaskNPoints.Factory": "1.0.0",
+          "TaskNPoints.Repository.Contract": "1.0.0"
+        },
+        "runtime": {
+          "TaskNPoints.Repository.dll": {}
+        },
+        "compile": {
+          "TaskNPoints.Repository.dll": {}
+        }
+      },
+      "TaskNPoints.Repository.Contract/1.0.0": {
+        "runtime": {
+          "TaskNPoints.Repository.Contract.dll": {}
+        },
+        "compile": {
+          "TaskNPoints.Repository.Contract.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3983,6 +4026,26 @@
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
+    },
+    "TaskNPoints.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskNPoints.Factory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskNPoints.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskNPoints.Repository.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",

@@ -9,5 +9,11 @@ namespace TaskNPoints.Entities
         public List<Task> TasksCompleted { get; set; }
         public List<Task> TasksTaken { get; set; }
         public double Points { get; set; }
+
+        public Student()
+        {
+            TasksCompleted = new List<Task>();
+            TasksTaken = new List<Task>();
+        }
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Business\bin\Debug\netcoreapp3.1\TaskNPoints.Business.deps.json
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Business\bin\Debug\netcoreapp3.1\TaskNPoints.Business.dll
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Business\bin\Debug\netcoreapp3.1\TaskNPoints.Business.pdb
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Business\obj\Debug\netcoreapp3.1\TaskNPoints.Business.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Business\obj\Debug\netcoreapp3.1\TaskNPoints.Business.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Business\obj\Debug\netcoreapp3.1\TaskNPoints.Business.AssemblyInfo.cs
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Business\obj\Debug\netcoreapp3.1\TaskNPoints.Business.dll
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Business\obj\Debug\netcoreapp3.1\TaskNPoints.Business.pdb

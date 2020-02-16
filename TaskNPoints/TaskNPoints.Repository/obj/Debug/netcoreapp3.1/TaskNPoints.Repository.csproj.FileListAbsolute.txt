@@ -1,0 +1,15 @@
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository\obj\Debug\netcoreapp3.1\TaskNPoints.Repository.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository\obj\Debug\netcoreapp3.1\TaskNPoints.Repository.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository\obj\Debug\netcoreapp3.1\TaskNPoints.Repository.AssemblyInfo.cs
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository\bin\Debug\netcoreapp3.1\TaskNPoints.Repository.deps.json
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository\bin\Debug\netcoreapp3.1\TaskNPoints.Repository.dll
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository\bin\Debug\netcoreapp3.1\TaskNPoints.Repository.pdb
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository\bin\Debug\netcoreapp3.1\TaskNPoints.Entities.dll
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository\bin\Debug\netcoreapp3.1\TaskNPoints.Factory.dll
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository\bin\Debug\netcoreapp3.1\TaskNPoints.Repository.Contract.dll
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository\bin\Debug\netcoreapp3.1\TaskNPoints.Entities.pdb
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository\bin\Debug\netcoreapp3.1\TaskNPoints.Factory.pdb
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository\bin\Debug\netcoreapp3.1\TaskNPoints.Repository.Contract.pdb
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository\obj\Debug\netcoreapp3.1\TaskNPoints.Repository.csproj.CopyComplete
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository\obj\Debug\netcoreapp3.1\TaskNPoints.Repository.dll
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository\obj\Debug\netcoreapp3.1\TaskNPoints.Repository.pdb

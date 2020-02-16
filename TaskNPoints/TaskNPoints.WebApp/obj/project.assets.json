@@ -1797,6 +1797,54 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "TaskNPoints.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TaskNPoints.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskNPoints.Entities.dll": {}
+        }
+      },
+      "TaskNPoints.Factory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "TaskNPoints.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TaskNPoints.Factory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskNPoints.Factory.dll": {}
+        }
+      },
+      "TaskNPoints.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "TaskNPoints.Entities": "1.0.0",
+          "TaskNPoints.Factory": "1.0.0",
+          "TaskNPoints.Repository.Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TaskNPoints.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskNPoints.Repository.dll": {}
+        }
+      },
+      "TaskNPoints.Repository.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TaskNPoints.Repository.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskNPoints.Repository.Contract.dll": {}
+        }
       }
     }
   },
@@ -6059,11 +6107,34 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "TaskNPoints.Entities/1.0.0": {
+      "type": "project",
+      "path": "../TaskNPoints.Entities/TaskNPoints.Entities.csproj",
+      "msbuildProject": "../TaskNPoints.Entities/TaskNPoints.Entities.csproj"
+    },
+    "TaskNPoints.Factory/1.0.0": {
+      "type": "project",
+      "path": "../TaskNPoints.Factory/TaskNPoints.Factory.csproj",
+      "msbuildProject": "../TaskNPoints.Factory/TaskNPoints.Factory.csproj"
+    },
+    "TaskNPoints.Repository/1.0.0": {
+      "type": "project",
+      "path": "../TaskNPoints.Repository/TaskNPoints.Repository.csproj",
+      "msbuildProject": "../TaskNPoints.Repository/TaskNPoints.Repository.csproj"
+    },
+    "TaskNPoints.Repository.Contract/1.0.0": {
+      "type": "project",
+      "path": "../TaskNPoints.Repository.Contract/TaskNPoints.Repository.Contract.csproj",
+      "msbuildProject": "../TaskNPoints.Repository.Contract/TaskNPoints.Repository.Contract.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.1"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.1",
+      "TaskNPoints.Factory >= 1.0.0",
+      "TaskNPoints.Repository >= 1.0.0",
+      "TaskNPoints.Repository.Contract >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6096,7 +6167,17 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Utilisateur\\Desktop\\TaskNPoints\\TaskNPointsWebApp\\TaskNPoints\\TaskNPoints.Factory\\TaskNPoints.Factory.csproj": {
+              "projectPath": "C:\\Users\\Utilisateur\\Desktop\\TaskNPoints\\TaskNPointsWebApp\\TaskNPoints\\TaskNPoints.Factory\\TaskNPoints.Factory.csproj"
+            },
+            "C:\\Users\\Utilisateur\\Desktop\\TaskNPoints\\TaskNPointsWebApp\\TaskNPoints\\TaskNPoints.Repository.Contract\\TaskNPoints.Repository.Contract.csproj": {
+              "projectPath": "C:\\Users\\Utilisateur\\Desktop\\TaskNPoints\\TaskNPointsWebApp\\TaskNPoints\\TaskNPoints.Repository.Contract\\TaskNPoints.Repository.Contract.csproj"
+            },
+            "C:\\Users\\Utilisateur\\Desktop\\TaskNPoints\\TaskNPointsWebApp\\TaskNPoints\\TaskNPoints.Repository\\TaskNPoints.Repository.csproj": {
+              "projectPath": "C:\\Users\\Utilisateur\\Desktop\\TaskNPoints\\TaskNPointsWebApp\\TaskNPoints\\TaskNPoints.Repository\\TaskNPoints.Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

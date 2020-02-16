@@ -7,6 +7,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using TaskNPoints.Factory;
+using TaskNPoints.Repository;
+using TaskNPoints.Repository.Contract;
 
 namespace TaskNPoints.WebApp
 {
@@ -23,6 +26,8 @@ namespace TaskNPoints.WebApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddSingleton<GenerateFake>();
+            services.AddScoped<StudentRepository, FactoryStudent>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

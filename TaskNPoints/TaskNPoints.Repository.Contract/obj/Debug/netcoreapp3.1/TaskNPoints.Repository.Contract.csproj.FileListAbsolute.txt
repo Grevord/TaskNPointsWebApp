@@ -1,0 +1,8 @@
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository.Contract\bin\Debug\netcoreapp3.1\TaskNPoints.Repository.Contract.deps.json
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository.Contract\bin\Debug\netcoreapp3.1\TaskNPoints.Repository.Contract.dll
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository.Contract\bin\Debug\netcoreapp3.1\TaskNPoints.Repository.Contract.pdb
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository.Contract\obj\Debug\netcoreapp3.1\TaskNPoints.Repository.Contract.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository.Contract\obj\Debug\netcoreapp3.1\TaskNPoints.Repository.Contract.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository.Contract\obj\Debug\netcoreapp3.1\TaskNPoints.Repository.Contract.AssemblyInfo.cs
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository.Contract\obj\Debug\netcoreapp3.1\TaskNPoints.Repository.Contract.dll
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Repository.Contract\obj\Debug\netcoreapp3.1\TaskNPoints.Repository.Contract.pdb

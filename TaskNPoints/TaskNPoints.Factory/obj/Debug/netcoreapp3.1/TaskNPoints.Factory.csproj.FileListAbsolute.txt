@@ -1,0 +1,11 @@
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Factory\bin\Debug\netcoreapp3.1\TaskNPoints.Factory.deps.json
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Factory\bin\Debug\netcoreapp3.1\TaskNPoints.Factory.dll
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Factory\bin\Debug\netcoreapp3.1\TaskNPoints.Factory.pdb
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Factory\bin\Debug\netcoreapp3.1\TaskNPoints.Entities.dll
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Factory\bin\Debug\netcoreapp3.1\TaskNPoints.Entities.pdb
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Factory\obj\Debug\netcoreapp3.1\TaskNPoints.Factory.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Factory\obj\Debug\netcoreapp3.1\TaskNPoints.Factory.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Factory\obj\Debug\netcoreapp3.1\TaskNPoints.Factory.AssemblyInfo.cs
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Factory\obj\Debug\netcoreapp3.1\TaskNPoints.Factory.csproj.CopyComplete
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Factory\obj\Debug\netcoreapp3.1\TaskNPoints.Factory.dll
+C:\Users\Utilisateur\Desktop\TaskNPoints\TaskNPointsWebApp\TaskNPoints\TaskNPoints.Factory\obj\Debug\netcoreapp3.1\TaskNPoints.Factory.pdb
