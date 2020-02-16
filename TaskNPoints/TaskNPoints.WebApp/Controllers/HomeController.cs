@@ -18,8 +18,9 @@ namespace TaskNPoints.WebApp.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(object test)
         {
+            var hello = test;
             return View();
         }
 
